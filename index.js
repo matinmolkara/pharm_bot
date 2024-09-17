@@ -33,17 +33,17 @@ async function sendMessageToCustomer(customer) {
       {
         type: "photo",
         media:
-          "https://drive.google.com/file/d/1-27NO0--Px-y3XNaJ80MsfYn2r-QiQW3/view?usp=sharing",
+          "https://drive.google.com/uc?export=view&id=1-27NO0--Px-y3XNaJ80MsfYn2r-QiQW3",
       },
       {
         type: "photo",
         media:
-          "https://drive.google.com/file/d/1-2j_9yOPXQ2CUUllgkZIXiA-Gigoh0qD/view?usp=sharing",
+          "https://drive.google.com/uc?export=view&id=1-2j_9yOPXQ2CUUllgkZIXiA-Gigoh0qD",
       },
       {
         type: "video",
         media:
-          "https://drive.google.com/file/d/1-BZf-sZe-WFXRvVIy6485Kpakuky7YFm/view?usp=sharing",
+          "https://drive.google.com/uc?export=view&id=1-BZf-sZe-WFXRvVIy6485Kpakuky7YFm",
       },
     ];
 
